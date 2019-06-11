@@ -16,6 +16,16 @@ module.exports = {
 }
 ```
 
+Lancer les commandes
+```
+yarn install
+```
+et
+```
+yarn run vuepress dev 
+```
+ 
+ 
 Pour plus d'informations, reportez-vous à [la procédure d'installation de VuePress](https://vuepress.vuejs.org/guide/getting-started.html).
 
 ## Template GitHub
